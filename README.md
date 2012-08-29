@@ -1,0 +1,4 @@
+logo
+====
+
+sysnode logo
